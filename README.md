@@ -4,6 +4,6 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-csienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угфдай число](https://github.com/Batl1x/New_SF_data_science/tree/master)
+* [Проект 0. Игра: Угадай число](https://github.com/Batl1x/New_SF_data_science/tree/master)
 * [Проект 1. ________](______)
 * [Проект 2. ________](______)
